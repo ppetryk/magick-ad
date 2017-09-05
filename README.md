@@ -1,1 +1,1 @@
-# magick-ad
+# Magick Ad
